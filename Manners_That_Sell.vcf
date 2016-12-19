@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Lydia Ramsey
+N;CHARSET=UTF-8:Lydia Ramsey;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;One Longfellow Lane;Savannah;GA;31411;USA
+EMAIL:lydia@lydiaramsey.com
+ORG:Lydia Ramsey\, Inc.
+URL:http://www.lydiaramsey.com
+END:VCARD
